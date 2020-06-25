@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[KA!L]]></title><description><![CDATA[Think a lots, do more]]></description><link>https://KaiLuu.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 25 Jun 2020 16:46:07 GMT</lastBuildDate><item><title><![CDATA[Darkness]]></title><description><![CDATA[I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point…]]></description><link>https://KaiLuu.com/darkness/</link><guid isPermaLink="false">https://KaiLuu.com/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get &lt;/p&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/071e2/BLACK_II_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeFcgg//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAXEAEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEBAAE/IYu11//aAAwDAQACAAMAAAAQ0M//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8QK8IaKDY3fSKmDE5st7P/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/53e9f/BLACK_II_desktop-1.webp 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/0991f/BLACK_II_desktop-1.webp 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/9d77c/BLACK_II_desktop-1.webp 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/24475/BLACK_II_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/a0703/BLACK_II_desktop-1.jpg 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/5041d/BLACK_II_desktop-1.jpg 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/071e2/BLACK_II_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/fe1b8/BLACK_II_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/071e2/BLACK_IX_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABwIAH/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABPyFf/9oADAMBAAIAAwAAABBjD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAIDAQEAAAAAAAAAAAAAAAABETFRECH/2gAIAQEAAT8QhKzzGQtHff/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/53e9f/BLACK_IX_desktop-1.webp 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/0991f/BLACK_IX_desktop-1.webp 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/9d77c/BLACK_IX_desktop-1.webp 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/24475/BLACK_IX_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/a0703/BLACK_IX_desktop-1.jpg 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/5041d/BLACK_IX_desktop-1.jpg 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/071e2/BLACK_IX_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/fe1b8/BLACK_IX_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/00ff909860392cb993579590db441a52/071e2/BLACK_I_desktop-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABw0UGUf/EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABcQAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQEAAT8hUwV//9oADAMBAAIAAwAAABCDD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAAMBAQEAAAAAAAAAAAAAAAABESEQMf/aAAgBAQABPxBKiYUehOvef//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/53e9f/BLACK_I_desktop-1.webp 340w,
+/static/00ff909860392cb993579590db441a52/0991f/BLACK_I_desktop-1.webp 680w,
+/static/00ff909860392cb993579590db441a52/9d77c/BLACK_I_desktop-1.webp 1360w,
+/static/00ff909860392cb993579590db441a52/24475/BLACK_I_desktop-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/a0703/BLACK_I_desktop-1.jpg 340w,
+/static/00ff909860392cb993579590db441a52/5041d/BLACK_I_desktop-1.jpg 680w,
+/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg 1360w,
+/static/00ff909860392cb993579590db441a52/071e2/BLACK_I_desktop-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg&quot;
+          alt=&quot;Darkness&quot;
+          title=&quot;&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/fe1b8/BLACK_I_desktop-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://KaiLuu.com/dont-stop/</link><guid isPermaLink="false">https://KaiLuu.com/dont-stop/</guid><pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
+&lt;p&gt;When I first started wearing pink, it wasn’t nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/071e2/ian-dooley-298771-unsplash-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB9SsrV0MDi2exYMef/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIQEQAgIf/aAAgBAQABBQKby4YcVTr/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAEQAv/aAAgBAwEBPwFjqf/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABUQAQEAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/AnT/AP/EABsQAAICAwEAAAAAAAAAAAAAAAEQEVEAMWFx/9oACAEBAAE/IXUbwXU96wMyYcAUa9D/AP/aAAwDAQACAAMAAAAQrzax/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARMf/aAAgBAwEBPxApqLIv/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8QKf/EAB8QAQACAgEFAQAAAAAAAAAAAAEAESExEEFhcYGx0f/aAAgBAQABPxAhKjVAFOBag9FeM8Eqil03bgr3AFGOqWH7AjR7PpDbx//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/53e9f/ian-dooley-298771-unsplash-1.webp 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/0991f/ian-dooley-298771-unsplash-1.webp 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/9d77c/ian-dooley-298771-unsplash-1.webp 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/24475/ian-dooley-298771-unsplash-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/a0703/ian-dooley-298771-unsplash-1.jpg 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/5041d/ian-dooley-298771-unsplash-1.jpg 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/fe1b8/ian-dooley-298771-unsplash-1.jpg 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/071e2/ian-dooley-298771-unsplash-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/fe1b8/ian-dooley-298771-unsplash-1.jpg&quot;
+          alt=&quot;Don&apos;t stop&quot;
+          title=&quot;&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/fe1b8/ian-dooley-298771-unsplash-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+So affection is inherently emotion. It’s like a bolt of lightning, coming on tight and going fast. It came suddenly and the fact that it won’t tell you exactly at what time? So cherish those who are loving on your side, so that the rays will remain here forever.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eb49d6b0e91431744d4293eecda221ce/071e2/ian-dooley-298780-unsplash-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHr7MzpUBMKqymME//EABoQAAEFAQAAAAAAAAAAAAAAAAEAAhAREiD/2gAIAQEAAQUCm0w6Hf8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAEAER/9oACAEDAQE/AcKf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwJP/8QAGxAAAgMAAwAAAAAAAAAAAAAAAREAEEEhYZH/2gAIAQEAAT8hjrlCsW+0mVmwUOr/AP/aAAwDAQACAAMAAAAQw+cP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxAxqKr/xAAXEQEAAwAAAAAAAAAAAAAAAAAQARFR/9oACAECAQE/ELI0/8QAGxABAAIDAQEAAAAAAAAAAAAAAQAREEFRYZH/2gAIAQEAAT8QJSw7hQPJYdAVOFyO3zyGgNGuQhAoUGoY/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/53e9f/ian-dooley-298780-unsplash-1.webp 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/0991f/ian-dooley-298780-unsplash-1.webp 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/9d77c/ian-dooley-298780-unsplash-1.webp 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/24475/ian-dooley-298780-unsplash-1.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/a0703/ian-dooley-298780-unsplash-1.jpg 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/5041d/ian-dooley-298780-unsplash-1.jpg 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/fe1b8/ian-dooley-298780-unsplash-1.jpg 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/071e2/ian-dooley-298780-unsplash-1.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/fe1b8/ian-dooley-298780-unsplash-1.jpg&quot;
+          alt=&quot;Don&apos;t stop&quot;
+          title=&quot;&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/fe1b8/ian-dooley-298780-unsplash-1.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Creative]]></title><description><![CDATA[CREATE MANY NEW THINGS EVERY DAY
+I was surprised at how many unsuccessful inventions and “ugly” pictures he drew. And he is one of the…]]></description><link>https://KaiLuu.com/its-all-blue/</link><guid isPermaLink="false">https://KaiLuu.com/its-all-blue/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQD/8QAFgEBAQEAAAAAAAAAAAAAAAAABAEC/9oADAMBAAIQAxAAAAHHeehYZBuf/8QAGxAAAQQDAAAAAAAAAAAAAAAAAgABAxAREjH/2gAIAQEAAQUCZSjrTdnLJL//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBL/2gAIAQMBAT8BAyz/xAAWEQEBAQAAAAAAAAAAAAAAAAABEDL/2gAIAQIBAT8BdE//xAAXEAADAQAAAAAAAAAAAAAAAAAAARAR/9oACAEBAAY/AhXJ/8QAGRABAQADAQAAAAAAAAAAAAAAAQARITFB/9oACAEBAAE/IYGgxknsdJj8El//2gAMAwEAAgADAAAAEBzf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAwEBPxCgeCh//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARYf/aAAgBAgEBPxBtBsf/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAxQVH/2gAIAQEAAT8QRMkVhW3uZlivpuAB+3uG7//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/53e9f/cody-davis-253925-unsplash.webp 340w,
+/static/9bd155b91c231debb6f82d7b9852fa76/0991f/cody-davis-253925-unsplash.webp 680w,
+/static/9bd155b91c231debb6f82d7b9852fa76/9d77c/cody-davis-253925-unsplash.webp 1360w,
+/static/9bd155b91c231debb6f82d7b9852fa76/24475/cody-davis-253925-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/a0703/cody-davis-253925-unsplash.jpg 340w,
+/static/9bd155b91c231debb6f82d7b9852fa76/5041d/cody-davis-253925-unsplash.jpg 680w,
+/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg 1360w,
+/static/9bd155b91c231debb6f82d7b9852fa76/071e2/cody-davis-253925-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
+          alt=&quot;It&apos;s all blue&quot;
+          title=&quot;&quot;
+          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/fe1b8/cody-davis-253925-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+CREATE MANY NEW THINGS EVERY DAY
+I was surprised at how many unsuccessful inventions and “ugly” pictures he drew. And he is one of the biggest inventors and artists of all time. I had thought that everything he touched became a masterpiece.&lt;/p&gt;
+&lt;p&gt;But I was wrong. He had to sketch hundreds of ideas to develop a few brilliant ones. Pablo Picasso was no different. He created more than 50,000 pieces of art in his lifetime.&lt;/p&gt;
+&lt;p&gt;An idea not coupled with action will never get any bigger than the brain cells it occupied. – A.G.&lt;/p&gt;
+&lt;p&gt;That leads us to a simple conclusion. If you want to be more creative, you have to create every single day. And you have to create a lot. Here are a few ideas how you can achieve that:&lt;/p&gt;
+&lt;p&gt;Brainstorm ideas every single day. If you don’t write down at least 10 ideas every day, don’t go to sleep. Much like you don’t go to sleep if you don’t read at least one page of a book.
+Don’t judge your ideas when you brainstorm. Write down every single ridiculous idea you can think of. Kick your inner critic’s ass if s/he wants to interfere. New ideas are fragile.
+Rank your ideas and then start prototyping. Use your medium and prototype like crazy. Prototyping is the first step to materializing your ideas. Nothing kills a brilliant idea faster than dull execution.
+Try to combine new ideas, all the knowledge you possess, and play with ideas in all the ridiculous ways possible. Every day, try to think in a new creative way.
+Make sure you use the diffused mode of thinking between creating time. Go for a walk or take a nap. Your mind will still be creating, and soon brilliant ideas will come out of nowhere.
+Don’t have problems being wrong. Mistake shouldn’t be the word you’re too embarrassed to use. You’re the product of a trillion mistakes. Evolution forged the entirety of sentient life on this planet using only one tool: the mistake (it’s a quote from Westworld). You should use it too.
+Exercise and eat brain foods! Both really do stimulate your brain and creativity.
+Last but not least, know that your unique style comes from your limitations, not your strengths. Your unique style gets developed by finding a way of working around your shortcomings.
+Mae sure you free your working memeory as much as possible
+Disinvest yourself from the society’s opinion, invest yourself into examining your soul to find the creative spring in you, and then create like crazy.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAgABBP/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/9oADAMBAAIQAxAAAAHQXVHyykP/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDEBH/2gAIAQEAAQUCxzmis2jwhtFNvn//xAAXEQADAQAAAAAAAAAAAAAAAAAAAhES/9oACAEDAQE/AauSn//EABYRAQEBAAAAAAAAAAAAAAAAABECEP/aAAgBAgEBPwEpz//EABcQAAMBAAAAAAAAAAAAAAAAAAECECH/2gAIAQEABj8CJa5f/8QAGBABAQEBAQAAAAAAAAAAAAAAAQAhEVH/2gAIAQEAAT8hNRh43d87O5XSQmvZv//aAAwDAQACAAMAAAAQaP8A/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxDQCdIV/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAgEBPxCDu4RH/8QAGhABAQEBAAMAAAAAAAAAAAAAAREAITFBUf/aAAgBAQABPxBDIoBB77zElCD7irmULqRj5z0cLY5d3//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/53e9f/cody-davis-259003-unsplash.webp 340w,
+/static/b833f68b610104a59dcc9d3be77f6170/0991f/cody-davis-259003-unsplash.webp 680w,
+/static/b833f68b610104a59dcc9d3be77f6170/9d77c/cody-davis-259003-unsplash.webp 1360w,
+/static/b833f68b610104a59dcc9d3be77f6170/24475/cody-davis-259003-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/a0703/cody-davis-259003-unsplash.jpg 340w,
+/static/b833f68b610104a59dcc9d3be77f6170/5041d/cody-davis-259003-unsplash.jpg 680w,
+/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg 1360w,
+/static/b833f68b610104a59dcc9d3be77f6170/071e2/cody-davis-259003-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
+          alt=&quot;It&apos;s all blue&quot;
+          title=&quot;&quot;
+          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/fe1b8/cody-davis-259003-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clean lines]]></title><description><![CDATA[Some people seem to spend their whole lives dissatisfied, in search of a purpose. But philosopher Iddo Landau suggests that all of us have…]]></description><link>https://KaiLuu.com/meaningful life/</link><guid isPermaLink="false">https://KaiLuu.com/meaningful life/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Some people seem to spend their whole lives dissatisfied, in search of a purpose. But philosopher Iddo Landau suggests that all of us have everything we need for a meaningful existence.&lt;/p&gt;
+&lt;p&gt;According to Landau, a philosophy professor at Haifa University in Israel and author of the 2017 book Finding Meaning in an Imperfect World, people are mistaken when they feel their lives are meaningless. The error is based on their failure to recognize what does matter, instead becoming overly focused on what they believe is missing from their existence. He writes in The Philosopher’s Magazine:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To my surprise, most of the people with whom I have talked about the meaning of life have told me that they did not think that their lives were meaningful enough. Many even presented their lives as outright meaningless. But I have often found the reasons my interlocutors gave for their views problematic. Many, I thought, did not pose relevant questions that might have changed their views, or take the actions that might have improved their condition. (Some of them, after our discussions, agreed with me.) Most of the people who complained about life’s meaninglessness even found it difficult to explain  what they took the notion to mean.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In other words, Landau thinks that people who feel purposeless actually misunderstand what meaning is. He is among many thinkers over the ages who’ve wrestled with the difficult question, “What is a meaningful life?”
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHjUglwM//EABgQAAIDAAAAAAAAAAAAAAAAAAACESAh/9oACAEBAAEFAlIyn//EABcRAAMBAAAAAAAAAAAAAAAAAAECECH/2gAIAQMBAT8BDZP/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwGH/8QAFhABAQEAAAAAAAAAAAAAAAAAMQAg/9oACAEBAAY/AiM//8QAGBABAQEBAQAAAAAAAAAAAAAAAREQAMH/2gAIAQEAAT8hNWVyr97c/9oADAMBAAIAAwAAABCH7//EABgRAAIDAAAAAAAAAAAAAAAAAAERELHR/9oACAEDAQE/EABFWR//xAAWEQEBAQAAAAAAAAAAAAAAAAABERD/2gAIAQIBAT8Qabn/xAAaEAEAAgMBAAAAAAAAAAAAAAABESEAEDFB/9oACAEBAAE/EHgFeLEYZokFsK0KccU+6//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/53e9f/clem-onojeghuo-207792-unsplash.webp 340w,
+/static/6346e1b3959c2359992fc4a3055afae7/0991f/clem-onojeghuo-207792-unsplash.webp 680w,
+/static/6346e1b3959c2359992fc4a3055afae7/9d77c/clem-onojeghuo-207792-unsplash.webp 1360w,
+/static/6346e1b3959c2359992fc4a3055afae7/24475/clem-onojeghuo-207792-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/a0703/clem-onojeghuo-207792-unsplash.jpg 340w,
+/static/6346e1b3959c2359992fc4a3055afae7/5041d/clem-onojeghuo-207792-unsplash.jpg 680w,
+/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg 1360w,
+/static/6346e1b3959c2359992fc4a3055afae7/071e2/clem-onojeghuo-207792-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/fe1b8/clem-onojeghuo-207792-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;The question of meaning&lt;/h3&gt;
+&lt;p&gt;Philosophers’ answers to this question are numerous and varied, and practical to different degrees. The 19th-century philosopher Friedrich Nietzsche, for example, said the question itself was meaningless because in the midst of living, we’re in no position to discern whether our lives matter, and stepping outside of the process of existence to answer is impossible.
+Those who do think meaning can be discerned, however, fall into four groups, according to Thaddeus Metz, writing in the Stanford Dictionary of Philosophy. Some are god-centered and believe only a deity can provide purpose. Others ascribe to a soul-centered view, thinking something of us must continue beyond our lives, an essence after physical existence, which gives life meaning. Then there are two camps of “naturalists” seeking meaning in a purely physical world as known by science, who fall into “subjectivist” and “objectivist” categories.
+The two naturalist camps are split over whether the human mind makes meaning or these conditions are absolute and universal. Objectivists argue that there are absolute truths which have value, though they may not agree on what they are. For example, some say that creativity offers purpose, while others believe that virtue, or a moral life, confers meaning.
+Subjectivists—Landau among them—think that those views are too narrow. If meaning happens through cognition, then it could come from any number of sources. “It seems to most in the field not only that creativity and morality are independent sources of meaning, but also that there are sources in addition to these two. For just a few examples, consider making an intellectual discovery, rearing children with love, playing music, and developing superior athletic ability,” Metz proposes.&lt;/p&gt;
+&lt;p&gt;For subjectivists, depending on who and where we are at any given point, the value of any given activity varies. Life is meaningful, they say, but its value is made by us in our minds, and subject to change over time. Landau argues that meaning is essentially a sense of worth which we may all derive in a different way—from relationships, creativity, accomplishment in a given field, or generosity, among other possibilities.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAWd1smmJkI//xAAaEAEAAgMBAAAAAAAAAAAAAAABAgMAESIx/9oACAEBAAEFAlTDzLpyLXeqp8f/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8Bia//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAACAwAAAAAAAAAAAAAAAAABEQAQIf/aAAgBAQAGPwLA5tAApCN1/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAMRBRYXGR/9oACAEBAAE/IRHgjEER1i4ku4nhNKGsGjuf/9oADAMBAAIAAwAAABDnH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxA0TX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8Qq4//xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMYFBUXHB/9oACAEBAAE/ED6S41S9xMApobruMpt1eDp035Eo1v0RsVREgry8/s//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/53e9f/mitch-lensink-588486-unsplash.webp 340w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/0991f/mitch-lensink-588486-unsplash.webp 680w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/9d77c/mitch-lensink-588486-unsplash.webp 1360w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/24475/mitch-lensink-588486-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/a0703/mitch-lensink-588486-unsplash.jpg 340w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/5041d/mitch-lensink-588486-unsplash.jpg 680w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg 1360w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/071e2/mitch-lensink-588486-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/fe1b8/mitch-lensink-588486-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Reframing your mindset&lt;/h3&gt;
+&lt;p&gt;For those who feel purposeless, Landau suggests a reframing is in order. He writes, “A meaningful life is one in which there is a sufficient number of aspects of sufficient value, and a meaningless life is one in which there is not a sufficient number of aspects of sufficient value.”
+Basically, he’s saying meaning is like an equation—add or subtract value variables, and you get more or less meaning. So, say you feel purposeless because you’re not as accomplished in your profession as you dreamed of being. You could theoretically derive meaning from other endeavors, like relationships, volunteer work, travel, or creative activities, to name just a few. It may also be that the things you already do really are meaningful, and that you’re not valuing them sufficiently because you’re focused on a single factor for value.
+He points to the example of existentialist psychologist Viktor Frankl, who survived imprisonment in Nazi concentration camps in World War II and went on to write a book, Man in Search of Meaning. Frankl’s purpose, his will to live despite imprisonment in the harshest conditions, came from his desire to write about the experience afterward. Frankl noted, too, that others who survived the camps had a specific purpose—they were determined to see their families after the war or to help other prisoners live, maintaining a sense of humanity.
+Landau argues that anyone who believes life can be meaningless also assumes the importance of value. In other words, if you think life can be meaningless, then you believe that there is such a thing as value. You’re not neutral on the topic. As such, we can also increase or decrease the value of our lives with practice, effort, action, and thought. “I can ruin or build friendships, upgrade or downgrade my health, and practice or neglect my German. It would be surprising if in this particular sphere of value, the meaning of life, things were different from how they are in all the other spheres,” he writes.
+For a life to be valuable, or meaningful, it needn’t be unique. Believing that specialness is tied to meaning is another mistake many people make, in Landau’s view. This misconception, he believes, “leads some people to unnecessarily see their lives as insufficiently meaningful and to miss ways of enhancing meaning in life.”
+He notes too that things change all the time: We move, meet new people, have fresh experiences, encounter new ideas, and age. As we change, our values transform, and so does our sense of purpose, which we must continually work on.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.1%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/2gAMAwEAAhADEAAAAc9tkctiBgP/xAAZEAACAwEAAAAAAAAAAAAAAAAAAQISIRH/2gAIAQEAAQUCSbHhpOKr0sz/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAhEh/9oACAEDAQE/AY6p/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oACAECAQE/AcV//8QAGhAAAQUBAAAAAAAAAAAAAAAAAQAQESExUf/aAAgBAQAGPwKAoJvixsb/xAAaEAEAAgMBAAAAAAAAAAAAAAABABExQVFx/9oACAEBAAE/IW6VGUzo01GzBBzNTwjD/9oADAMBAAIAAwAAABCXD//EABYRAQEBAAAAAAAAAAAAAAAAAAABcf/aAAgBAwEBPxCKbf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCmn//EABsQAQADAQADAAAAAAAAAAAAAAEAESExQVGR/9oACAEBAAE/EDTA5eRjYw+GC5tGMHBS0X7yUBoVehsE0V8n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/53e9f/ricardo-gomez-angel-180819-unsplash.webp 340w,
+/static/73a290867a40d3234d026f7e40d5e362/0991f/ricardo-gomez-angel-180819-unsplash.webp 680w,
+/static/73a290867a40d3234d026f7e40d5e362/9d77c/ricardo-gomez-angel-180819-unsplash.webp 1360w,
+/static/73a290867a40d3234d026f7e40d5e362/24475/ricardo-gomez-angel-180819-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/a0703/ricardo-gomez-angel-180819-unsplash.jpg 340w,
+/static/73a290867a40d3234d026f7e40d5e362/5041d/ricardo-gomez-angel-180819-unsplash.jpg 680w,
+/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg 1360w,
+/static/73a290867a40d3234d026f7e40d5e362/071e2/ricardo-gomez-angel-180819-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/fe1b8/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;The question is the answer&lt;/h3&gt;
+&lt;p&gt;There are other approaches, too. Casey Woodling, a professor of philosophy and religious studies at Coastal Carolina University in South Carolina, proposes in Philosophy Now that the question of meaningfulness itself offers an answer. “What makes a human life have meaning or significance is not the mere living of a life, but reflecting on the living of a life,” he writes.
+Pursuing ends and goals—fitness, family, financial success, academic accomplishment—is all fine and good, yet that’s not really meaningful, in Woodling’s view. Reflecting on why we pursue those goals is significant, however. By taking a reflective perspective, significance itself accrues. “This comes close to Socrates’ famous saying that the unexamined life is not worth living,” Woodling writes, “I would venture to say that the unexamined life has no meaning.”
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABBP/aAAwDAQACEAMQAAAB5FZpppI//8QAFRABAQAAAAAAAAAAAAAAAAAAASD/2gAIAQEAAQUCK//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABcQAQEBAQAAAAAAAAAAAAAAABEAEAH/2gAIAQEAAT8h4ZnHP//aAAwDAQACAAMAAAAQFz//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8Qla//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAYEAEBAQEBAAAAAAAAAAAAAAABABEhMf/aAAgBAQABPxBtZ1O5eZ79hlS3/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/53e9f/joanna-kosinska-254406-unsplash.webp 340w,
+/static/d85512b0b9ce8d33ff86606608d65c53/0991f/joanna-kosinska-254406-unsplash.webp 680w,
+/static/d85512b0b9ce8d33ff86606608d65c53/9d77c/joanna-kosinska-254406-unsplash.webp 1360w,
+/static/d85512b0b9ce8d33ff86606608d65c53/24475/joanna-kosinska-254406-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/a0703/joanna-kosinska-254406-unsplash.jpg 340w,
+/static/d85512b0b9ce8d33ff86606608d65c53/5041d/joanna-kosinska-254406-unsplash.jpg 680w,
+/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg 1360w,
+/static/d85512b0b9ce8d33ff86606608d65c53/071e2/joanna-kosinska-254406-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
+          alt=&quot;Clean lines&quot;
+          title=&quot;&quot;
+          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/fe1b8/joanna-kosinska-254406-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Mystery is meaning&lt;/h3&gt;
+&lt;p&gt;In the Eastern philosophical tradition, there’s yet another simple answer to the difficult question of life’s meaning—a response that can’t be articulated exactly, but is sensed through deep observation of nature. The sixth-century Chinese sage Lao Tzu—who is said to have dictated the Tao Te Ching before escaping civilization for solitude in the mountains—believed the universe supplies our value.
+Like Woodling, he would argue that goals are insignificant, and that accomplishments are not what makes our lives matter. But unlike Woodling, he suggests meaning comes from being a product of the world itself. No effort is necessary.
+Instead of reflection, Lao Tzu proposes a deep understanding of the essence of existence, which is mysterious. We, like rivers and trees, are part of “the way,” which is made of everything and makes everything and cannot ever truly be known or spoken of. From this perspective, life isn’t comprehensible, but it is inherently meaningful—whatever position we occupy in society, however little or much we may do.
+Life matters because we exist within and among living things, as part of an enduring and incomprehensible chain of existence. Sometimes life is brutal, he writes, but meaning is derived from perseverance. The Tao says, “One who persists is a person of purpose.”&lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><description><![CDATA[Identify Your Wants and Desires
+If you don’t know where you are going, you will probably end up somewhere else.  – Lawrence J. Peter
+Before…]]></description><link>https://KaiLuu.com/all-spikes/</link><guid isPermaLink="false">https://KaiLuu.com/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/071e2/charles-deluvio-695757-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.4%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAB11MjGtoFP//EABkQAAMBAQEAAAAAAAAAAAAAAAABAgMRIf/aAAgBAQABBQImu2P1YYvJn//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAwEBPwFQf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAABAhARUf/aAAgBAQAGPwIlxVg9ar//xAAZEAACAwEAAAAAAAAAAAAAAAABEQAQIVH/2gAIAQEAAT8hiIxgqBnQUOpjwKv/2gAMAwEAAgADAAAAEAsf/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EAKdn//EABYRAAMAAAAAAAAAAAAAAAAAABARIf/aAAgBAgEBPxB0f//EABsQAQEAAwADAAAAAAAAAAAAAAERABAhMZGx/9oACAEBAAE/EFAqwxQ1ghLZX6aN7w3sY4RJ08DX/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/53e9f/charles-deluvio-695757-unsplash.webp 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/0991f/charles-deluvio-695757-unsplash.webp 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/9d77c/charles-deluvio-695757-unsplash.webp 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/24475/charles-deluvio-695757-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/a0703/charles-deluvio-695757-unsplash.jpg 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/5041d/charles-deluvio-695757-unsplash.jpg 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/fe1b8/charles-deluvio-695757-unsplash.jpg 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/071e2/charles-deluvio-695757-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/fe1b8/charles-deluvio-695757-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/fe1b8/charles-deluvio-695757-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify Your Wants and Desires
+If you don’t know where you are going, you will probably end up somewhere else.  – Lawrence J. Peter
+Before you can develop persistence and eventually achieve success, you need to first identify your wants or desires. You can do this by simply writing down specifically all the things you want to have or accomplish. List down all your desires and wants, no matter how impossible they are to achieve in the moment.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All your goal-setting and planning will go to waste if you won’t be able to develop discipline and good habit.
+Discipline is the bridge between goals and accomplishment. – Jim Rohn
+There will be a lot of hindrances that will stop you from moving towards your goal, and without proper discipline, it will be easy for you to sail away. Upholding discipline and good habits can help you stay in the course, even despite difficulties.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/071e2/charles-deluvio-695736-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAEDBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwD/2gAMAwEAAhADEAAAAdsRjjXeljmsGwJ//8QAHRAAAgIBBQAAAAAAAAAAAAAAAQIDEAAEERIxM//aAAgBAQABBQInYKeQyTz07GuwsapX/8QAFhEAAwAAAAAAAAAAAAAAAAAAAREg/9oACAEDAQE/AUY//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAgIDAAAAAAAAAAAAAAAAABABERIhQf/aAAgBAQAGPwKy4UmPHpf/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSFhkf/aAAgBAQABPyEnWguCOpw0Up4gEPbCWDpjF39x/9oADAMBAAIAAwAAABBwH/3/xAAYEQEAAwEAAAAAAAAAAAAAAAABEBEhMf/aAAgBAwEBPxAbTkC1Uf/EABgRAAIDAAAAAAAAAAAAAAAAAAERICFB/9oACAECAQE/EGBWw//EABsQAQEBAAIDAAAAAAAAAAAAAAERABAhMUFR/9oACAEBAAE/EAealMvlGnBOoKj894JxIpfJpj7GETIACk7rrK7/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/53e9f/charles-deluvio-695736-unsplash.webp 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/0991f/charles-deluvio-695736-unsplash.webp 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/9d77c/charles-deluvio-695736-unsplash.webp 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/24475/charles-deluvio-695736-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/a0703/charles-deluvio-695736-unsplash.jpg 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/5041d/charles-deluvio-695736-unsplash.jpg 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/fe1b8/charles-deluvio-695736-unsplash.jpg 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/071e2/charles-deluvio-695736-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/fe1b8/charles-deluvio-695736-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/fe1b8/charles-deluvio-695736-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Determine Your Motivation
+Motivation comes from a deep reason why we want to achieve or have something. If you know why you’re doing what you’re doing, it gives you more energy to keep moving.&lt;/li&gt;
+&lt;li&gt;Outline Your Definite Action Step
+Identifying your wants or desires speaks of what you want to achieve. Determining your motivation shows the reasons why you want to achieve what you want.  Outlining your definite action step is necessary to know how you will be able to achieve what you want.
+When you know how to get what you want, it makes it easier to achieve it. To know how, it pays to do some research and planning of what needs to be done on your part. Be specific on each step you need to take. Identify at least 2 ways and plans on how you can achieve your goals.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/216e61171daaf84611afdcd561d726fa/071e2/charles-deluvio-695758-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAUBAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAP/2gAMAwEAAhADEAAAAa+ZMLqivNPscjTsPP8A/8QAGxABAAEFAQAAAAAAAAAAAAAAAQMAAgQQEhH/2gAIAQEAAQUC2oVDd1lVkHscR1LotDX/xAAXEQADAQAAAAAAAAAAAAAAAAABEBEC/9oACAEDAQE/AUNwRf/EABcRAAMBAAAAAAAAAAAAAAAAAAEQEQL/2gAIAQIBAT8BRzTV/8QAGhAAAgIDAAAAAAAAAAAAAAAAARAAIQIRcf/aAAgBAQAGPwJ2ZmdrkDoBf//EABwQAAIDAQADAAAAAAAAAAAAAAERABAhMUFhcf/aAAgBAQABPyGMNPaCsAHuBQVq3tMT51FE87RAIR2cdfBX/9oADAMBAAIAAwAAABBj03H/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QJisp/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QIg//xAAeEAEBAAICAgMAAAAAAAAAAAABEQAQIUExUWGBof/aAAgBAQABPxDKOUFS8zXzBJTHrfFicgJ70PaoH8cPlQb+tIgA+RMaVl7A1//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/53e9f/charles-deluvio-695758-unsplash.webp 340w,
+/static/216e61171daaf84611afdcd561d726fa/0991f/charles-deluvio-695758-unsplash.webp 680w,
+/static/216e61171daaf84611afdcd561d726fa/9d77c/charles-deluvio-695758-unsplash.webp 1360w,
+/static/216e61171daaf84611afdcd561d726fa/24475/charles-deluvio-695758-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/a0703/charles-deluvio-695758-unsplash.jpg 340w,
+/static/216e61171daaf84611afdcd561d726fa/5041d/charles-deluvio-695758-unsplash.jpg 680w,
+/static/216e61171daaf84611afdcd561d726fa/fe1b8/charles-deluvio-695758-unsplash.jpg 1360w,
+/static/216e61171daaf84611afdcd561d726fa/071e2/charles-deluvio-695758-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/fe1b8/charles-deluvio-695758-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/fe1b8/charles-deluvio-695758-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;Keep a Positive Mental Attitude
+The road to success is not easy, in fact, it’s challenging, this is why only few succeeds. There will be countless times you will be face with defeat and failures that if you are weak, you’ll be succumbing to negative thoughts of fears and doubts.
+In order to develop persistence and eventually succeed in your endeavor, always maintain a positive mental attitude, regardless of situation. Keep your thoughts focused on taking action towards your goals. Avoid negative thoughts and feelings for it will ruin your concentration and persistence.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/13fcadf01630d17cd11157919feaa547/071e2/charles-deluvio-695733-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEEAv/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/9oADAMBAAIQAxAAAAHeZ86zoAzOe4waFl//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIRIAP/2gAIAQEAAQUCxzdyGVn/xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8BibP/xAAXEQEBAQEAAAAAAAAAAAAAAAABEBEC/9oACAECAQE/AQh3hk//xAAXEAADAQAAAAAAAAAAAAAAAAACIDBx/9oACAEBAAY/AkPYf//EABsQAQABBQEAAAAAAAAAAAAAAAEQABEgITFB/9oACAEBAAE/Icg+KAOibB5H/9oADAMBAAIAAwAAABAT5U7/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QXEJqGf/EABcRAAMBAAAAAAAAAAAAAAAAAAEQEVH/2gAIAQIBAT8QoCcVva//xAAZEAEBAQEBAQAAAAAAAAAAAAABERAAMZH/2gAIAQEAAT8Q6ioJT3bO2T8MF4TQFawlxBIlOHUA5//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/53e9f/charles-deluvio-695733-unsplash.webp 340w,
+/static/13fcadf01630d17cd11157919feaa547/0991f/charles-deluvio-695733-unsplash.webp 680w,
+/static/13fcadf01630d17cd11157919feaa547/9d77c/charles-deluvio-695733-unsplash.webp 1360w,
+/static/13fcadf01630d17cd11157919feaa547/24475/charles-deluvio-695733-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/a0703/charles-deluvio-695733-unsplash.jpg 340w,
+/static/13fcadf01630d17cd11157919feaa547/5041d/charles-deluvio-695733-unsplash.jpg 680w,
+/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg 1360w,
+/static/13fcadf01630d17cd11157919feaa547/071e2/charles-deluvio-695733-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;Build Your Mastermind Group
+Mastermind Group composes of people who can help you succeed towards your goal. Choose carefully who you will trust as part of your mastermind group. If possible, include only those who can give you unbiased judgments and who has positive mental attitude.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/13fcadf01630d17cd11157919feaa547/071e2/charles-deluvio-695733-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEEAv/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/9oADAMBAAIQAxAAAAHeZ86zoAzOe4waFl//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIRIAP/2gAIAQEAAQUCxzdyGVn/xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8BibP/xAAXEQEBAQEAAAAAAAAAAAAAAAABEBEC/9oACAECAQE/AQh3hk//xAAXEAADAQAAAAAAAAAAAAAAAAACIDBx/9oACAEBAAY/AkPYf//EABsQAQABBQEAAAAAAAAAAAAAAAEQABEgITFB/9oACAEBAAE/Icg+KAOibB5H/9oADAMBAAIAAwAAABAT5U7/xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QXEJqGf/EABcRAAMBAAAAAAAAAAAAAAAAAAEQEVH/2gAIAQIBAT8QoCcVva//xAAZEAEBAQEBAQAAAAAAAAAAAAABERAAMZH/2gAIAQEAAT8Q6ioJT3bO2T8MF4TQFawlxBIlOHUA5//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/53e9f/charles-deluvio-695733-unsplash.webp 340w,
+/static/13fcadf01630d17cd11157919feaa547/0991f/charles-deluvio-695733-unsplash.webp 680w,
+/static/13fcadf01630d17cd11157919feaa547/9d77c/charles-deluvio-695733-unsplash.webp 1360w,
+/static/13fcadf01630d17cd11157919feaa547/24475/charles-deluvio-695733-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/a0703/charles-deluvio-695733-unsplash.jpg 340w,
+/static/13fcadf01630d17cd11157919feaa547/5041d/charles-deluvio-695733-unsplash.jpg 680w,
+/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg 1360w,
+/static/13fcadf01630d17cd11157919feaa547/071e2/charles-deluvio-695733-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg&quot;
+          alt=&quot;Cactus&quot;
+          title=&quot;&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/fe1b8/charles-deluvio-695733-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;Develop Discipline and Habit
+All your goal-setting and planning will go to waste if you won’t be able to develop discipline and good habit.
+Discipline is the bridge between goals and accomplishment. – Jim Rohn
+There will be a lot of hindrances that will stop you from moving towards your goal, and without proper discipline, it will be easy for you to sail away. Upholding discipline and good habits can help you stay in the course, even despite difficulties.&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Subtle]]></title><description><![CDATA[Think beautiful thoughts. The “inner glow” that people find beautiful in others will only be genuine and durable if you have a truly…]]></description><link>https://KaiLuu.com/Subtle/</link><guid isPermaLink="false">https://KaiLuu.com/Subtle/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dd82c627c6397daa9dacf5675967134b/071e2/chuttersnap-564286-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.55%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGziVI8mh//xAAcEAABAwUAAAAAAAAAAAAAAAABAAISAxARIjL/2gAIAQEAAQUCtJF20jit3//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAQEBAAAAAAAAAAAAAAAAABACYf/aAAgBAQAGPwJnX//EABsQAQEAAgMBAAAAAAAAAAAAAAEAETEhQVGB/9oACAEBAAE/IbPOJA7JAPC2T4kbnRf/2gAMAwEAAgADAAAAEDcP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/EFf/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhUTFBYZH/2gAIAQEAAT8QviPMKEw7iI+7UwQRY1QTM2gNAe9xjy+3k//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/dd82c627c6397daa9dacf5675967134b/53e9f/chuttersnap-564286-unsplash.webp 340w,
+/static/dd82c627c6397daa9dacf5675967134b/0991f/chuttersnap-564286-unsplash.webp 680w,
+/static/dd82c627c6397daa9dacf5675967134b/9d77c/chuttersnap-564286-unsplash.webp 1360w,
+/static/dd82c627c6397daa9dacf5675967134b/24475/chuttersnap-564286-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/dd82c627c6397daa9dacf5675967134b/a0703/chuttersnap-564286-unsplash.jpg 340w,
+/static/dd82c627c6397daa9dacf5675967134b/5041d/chuttersnap-564286-unsplash.jpg 680w,
+/static/dd82c627c6397daa9dacf5675967134b/fe1b8/chuttersnap-564286-unsplash.jpg 1360w,
+/static/dd82c627c6397daa9dacf5675967134b/071e2/chuttersnap-564286-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/dd82c627c6397daa9dacf5675967134b/fe1b8/chuttersnap-564286-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/dd82c627c6397daa9dacf5675967134b/fe1b8/chuttersnap-564286-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Think beautiful thoughts. The “inner glow” that people find beautiful in others will only be genuine and durable if you have a truly beautiful personality. Have a heart that is in the right place, rather than play-acting. If your self-esteem has taken a battering lately, build it back up. Spread kindness, love and consideration for others in place of wallowing in self-pity and comparison.
+Be an attentive listener. Learn to really hear what others have to say and be genuinely interested in their lives, stories, and hopes. People always respond well to people who care and there is great subtle beauty to be found in being heard.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c49f7fc564b6100900f07b238c32ad08/071e2/jazmin-quaynor-105210-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAQUAAAAAAAAAAAAAAAAAAAECAwQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB2YbSDAD/xAAYEAEAAwEAAAAAAAAAAAAAAAACAAERIP/aAAgBAQABBQJbcBR5/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGBAAAgMAAAAAAAAAAAAAAAAAAAIgISL/2gAIAQEABj8Co00f/8QAGRABAQADAQAAAAAAAAAAAAAAAQAQESEx/9oACAEBAAE/ISScy/pOFt3/2gAMAwEAAgADAAAAEPDv/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFBgaH/2gAIAQEAAT8QaLh1NbPGzFoWgBp4eufWDZerMI6n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c49f7fc564b6100900f07b238c32ad08/53e9f/jazmin-quaynor-105210-unsplash.webp 340w,
+/static/c49f7fc564b6100900f07b238c32ad08/0991f/jazmin-quaynor-105210-unsplash.webp 680w,
+/static/c49f7fc564b6100900f07b238c32ad08/9d77c/jazmin-quaynor-105210-unsplash.webp 1360w,
+/static/c49f7fc564b6100900f07b238c32ad08/24475/jazmin-quaynor-105210-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c49f7fc564b6100900f07b238c32ad08/a0703/jazmin-quaynor-105210-unsplash.jpg 340w,
+/static/c49f7fc564b6100900f07b238c32ad08/5041d/jazmin-quaynor-105210-unsplash.jpg 680w,
+/static/c49f7fc564b6100900f07b238c32ad08/fe1b8/jazmin-quaynor-105210-unsplash.jpg 1360w,
+/static/c49f7fc564b6100900f07b238c32ad08/071e2/jazmin-quaynor-105210-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c49f7fc564b6100900f07b238c32ad08/fe1b8/jazmin-quaynor-105210-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c49f7fc564b6100900f07b238c32ad08/fe1b8/jazmin-quaynor-105210-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Groom well. Beauty regimes should not take up all of the time but should be straightforward, easy and effective. Invest in quality over quantity - a good hairbrush, a good hair smoothing implement, good makeup, good hair products, etc. When you find something that works, stick with it and keep using it rather than trying too far afield.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/071e2/josh-silver-730329-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.64999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAYBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2bK0yMwrB//EABkQAAMAAwAAAAAAAAAAAAAAAAACEwEQEv/aAAgBAQABBQKiFFKodZ3/AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAABMiD/2gAIAQEABj8CpFIpY//EABsQAAICAwEAAAAAAAAAAAAAAAABESFBcdHx/9oACAEBAAE/IU7sUzRs9YTMkuFY22f/2gAMAwEAAgADAAAAEIT/AP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EKr/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxCq/8QAGhABAQEAAwEAAAAAAAAAAAAAAREAIUGBof/aAAgBAQABPxA6nDn1tGpsEHbERTVylqe7/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/53e9f/josh-silver-730329-unsplash.webp 340w,
+/static/f4fd4770aaee8d07614dbd372238c71e/0991f/josh-silver-730329-unsplash.webp 680w,
+/static/f4fd4770aaee8d07614dbd372238c71e/9d77c/josh-silver-730329-unsplash.webp 1360w,
+/static/f4fd4770aaee8d07614dbd372238c71e/24475/josh-silver-730329-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/a0703/josh-silver-730329-unsplash.jpg 340w,
+/static/f4fd4770aaee8d07614dbd372238c71e/5041d/josh-silver-730329-unsplash.jpg 680w,
+/static/f4fd4770aaee8d07614dbd372238c71e/fe1b8/josh-silver-730329-unsplash.jpg 1360w,
+/static/f4fd4770aaee8d07614dbd372238c71e/071e2/josh-silver-730329-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/fe1b8/josh-silver-730329-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/fe1b8/josh-silver-730329-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Wear simple but elegant and timeless outfits. Rely on a base color, such as black, white, brown, pink, etc., and a single pattern. Quality is always better than quantity. Spend money on clothing items that will last and still look lovely, rather than shelling out cash for cheap styles that will wear out quickly or fade out of fashion fast.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/071e2/roman-bozhko-251947-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 67.95%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGzNdUIxkj/xAAaEAACAwEBAAAAAAAAAAAAAAABAgADEQQT/9oACAEBAAEFAp2DRixidsX1NgVH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BR//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABAhEQElH/2gAIAQEABj8CI4S6asqj/8QAGhAAAwEAAwAAAAAAAAAAAAAAAAERITFhsf/aAAgBAQABPyEW05FeTtEkpofiRUbvc//aAAwDAQACAAMAAAAQk+//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/ELWv/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFBgZHh/9oACAEBAAE/EGIyFT4EOj1fs5aUF9UXC2fst6JpkJeTcU//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/53e9f/roman-bozhko-251947-unsplash.webp 340w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/0991f/roman-bozhko-251947-unsplash.webp 680w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/9d77c/roman-bozhko-251947-unsplash.webp 1360w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/24475/roman-bozhko-251947-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/a0703/roman-bozhko-251947-unsplash.jpg 340w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/5041d/roman-bozhko-251947-unsplash.jpg 680w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/fe1b8/roman-bozhko-251947-unsplash.jpg 1360w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/071e2/roman-bozhko-251947-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/fe1b8/roman-bozhko-251947-unsplash.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/fe1b8/roman-bozhko-251947-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Don’t flirt. Learn ways to show appreciation of others that don’t include stooping to manipulative or unloving behavior.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c6afddd4f53d1974ed81e0766d879a43/2b438/photo-1541130292430-a832637ddc0d.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 854px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 117.21311475409837%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBAv/EABYBAQEBAAAAAAAAAAAAAAAAAAMAAv/aAAwDAQACEAMQAAAB72qbZcq1ZoLyhcf/xAAbEAACAwADAAAAAAAAAAAAAAAAAgEREgQTIf/aAAgBAQABBQLJkoyQr9uS7F8H5SQ3/8QAGREAAQUAAAAAAAAAAAAAAAAAAAECEBES/9oACAEDAQE/AUZZmf/EABkRAAEFAAAAAAAAAAAAAAAAAAABAhAREv/aAAgBAgEBPwFXGoo//8QAHBAAAQMFAAAAAAAAAAAAAAAAAQACERAgIUGh/9oACAEBAAY/ArHFwMaqZWDxf//EABwQAAICAgMAAAAAAAAAAAAAAAABESEQMUFRYf/aAAgBAQABPyHBPBDgDekKKgTpsd2K7gaFT65//9oADAMBAAIAAwAAABCjB4D/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EKFy41//xAAYEQEBAAMAAAAAAAAAAAAAAAAAARExcf/aAAgBAgEBPxDAhNu3/8QAHRABAAIBBQEAAAAAAAAAAAAAAQARYRAhMUFxUf/aAAgBAQABPxAwnjS8RiJ0gKO1D7mFUFDjGIh3h1BULuQU45UJX1HSkfbn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c6afddd4f53d1974ed81e0766d879a43/53e9f/photo-1541130292430-a832637ddc0d.webp 340w,
+/static/c6afddd4f53d1974ed81e0766d879a43/0991f/photo-1541130292430-a832637ddc0d.webp 680w,
+/static/c6afddd4f53d1974ed81e0766d879a43/244f1/photo-1541130292430-a832637ddc0d.webp 854w&quot;
+          sizes=&quot;(max-width: 854px) 100vw, 854px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c6afddd4f53d1974ed81e0766d879a43/a0703/photo-1541130292430-a832637ddc0d.jpg 340w,
+/static/c6afddd4f53d1974ed81e0766d879a43/5041d/photo-1541130292430-a832637ddc0d.jpg 680w,
+/static/c6afddd4f53d1974ed81e0766d879a43/2b438/photo-1541130292430-a832637ddc0d.jpg 854w&quot;
+          sizes=&quot;(max-width: 854px) 100vw, 854px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c6afddd4f53d1974ed81e0766d879a43/2b438/photo-1541130292430-a832637ddc0d.jpg&quot;
+          alt=&quot;Green&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c6afddd4f53d1974ed81e0766d879a43/2b438/photo-1541130292430-a832637ddc0d.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Become interdependent. Build up good relationships with other people and be willing to depend on others when need be. Don’t be afraid to ask for help- people will appreciate the fact that you can be genuine. Make sure, though, not to infringe on the good-will of your friends unnecessarily.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get fruity]]></title><description><![CDATA[A diet rich in vegetables and fruits can lower blood pressure, reduce the risk of heart disease and stroke, prevent some types of cancer…]]></description><link>https://KaiLuu.com/get-fruity/</link><guid isPermaLink="false">https://KaiLuu.com/get-fruity/</guid><pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;Li&gt;Vegetables and fruits are an important part of a healthy diet, and variety is as important as quantity.&lt;/li&gt;
+&lt;li&gt;No single fruit or vegetable provides all of the nutrients you need to be healthy. Eat plenty every day.&lt;/li&gt;
+&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+&lt;p&gt;A diet rich in vegetables and fruits can lower blood pressure, reduce the risk of heart disease and stroke, prevent some types of cancer, lower risk of eye and digestive problems, and have a positive effect upon blood sugar, which can help keep appetite in check. Eating non-starchy vegetables and fruits like apples, pears, and green leafy vegetables may even promote weight loss. [1] Their low glycemic loads prevent blood sugar spikes that can increase hunger.&lt;/p&gt;
+&lt;p&gt;At least nine different families of fruits and vegetables exist, each with potentially hundreds of different plant compounds that are beneficial to health. Eat a variety of types and colors of produce in order to give your body the mix of nutrients it needs. This not only ensures a greater diversity of beneficial plant chemicals but also creates eye-appealing
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/43d2b2b81944659e9a957960de8c4113/071e2/mike-dorner-173504-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 61.8%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBP/aAAwDAQACEAMQAAAB0YLDHYB//8QAGBAAAgMAAAAAAAAAAAAAAAAAAQIDICH/2gAIAQEAAQUCOBJQ1f/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAAAEAIDH/2gAIAQEABj8CmI1//8QAGBABAQADAAAAAAAAAAAAAAAAEQEAIGH/2gAIAQEAAT8htKJgsY5r/9oADAMBAAIAAwAAABB37//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxA1f//EABcRAAMBAAAAAAAAAAAAAAAAAAEQEUH/2gAIAQIBAT8QE1f/xAAbEAEBAAEFAAAAAAAAAAAAAAABEQAgITFBcf/aAAgBAQABPxDdVCw7xl+UDQPun//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/43d2b2b81944659e9a957960de8c4113/53e9f/mike-dorner-173504-unsplash.webp 340w,
+/static/43d2b2b81944659e9a957960de8c4113/0991f/mike-dorner-173504-unsplash.webp 680w,
+/static/43d2b2b81944659e9a957960de8c4113/9d77c/mike-dorner-173504-unsplash.webp 1360w,
+/static/43d2b2b81944659e9a957960de8c4113/24475/mike-dorner-173504-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/43d2b2b81944659e9a957960de8c4113/a0703/mike-dorner-173504-unsplash.jpg 340w,
+/static/43d2b2b81944659e9a957960de8c4113/5041d/mike-dorner-173504-unsplash.jpg 680w,
+/static/43d2b2b81944659e9a957960de8c4113/fe1b8/mike-dorner-173504-unsplash.jpg 1360w,
+/static/43d2b2b81944659e9a957960de8c4113/071e2/mike-dorner-173504-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/43d2b2b81944659e9a957960de8c4113/fe1b8/mike-dorner-173504-unsplash.jpg&quot;
+          alt=&quot;Fruits&quot;
+          title=&quot;&quot;
+          src=&quot;/static/43d2b2b81944659e9a957960de8c4113/fe1b8/mike-dorner-173504-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Style of you]]></title><description><![CDATA[Young people today are making a serious mistake about their fashion style. Speaking of fashion, it sounds like a luxury, and you have to…]]></description><link>https://KaiLuu.com/Style/</link><guid isPermaLink="false">https://KaiLuu.com/Style/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a1ebbea943f183782485fb7212e283bb/071e2/charles-deluvio-540415-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 129.29999999999998%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/9oADAMBAAIQAxAAAAHmuuGdekQaYSWlTsoFl//EABwQAAICAgMAAAAAAAAAAAAAAAECABEDMQQyM//aAAgBAQABBQKwIHSVDDpOp0mOwMZYRtcn3//EABoRAAIDAQEAAAAAAAAAAAAAAAECAAMREiH/2gAIAQMBAT8BsvYNgito2XL0wgtI8E//xAAZEQACAwEAAAAAAAAAAAAAAAAAAgEQEiH/2gAIAQIBAT8BheUpk//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAhARIUEDMWH/2gAIAQEABj8CzOV1NuONlW0Bo9McI1Scv//EACAQAAIBAwQDAAAAAAAAAAAAAAABESExcRBBUWGBkfH/2gAIAQEAAT8haMhjdrIw91usIu4koNYK3pJORF+GTh06qae4I8lnw4XR/9oADAMBAAIAAwAAABC7EDL/xAAdEQACAQQDAAAAAAAAAAAAAAAAAREhMUFhUZHR/9oACAEDAQE/EGdFFyRcLipGl2J8C2/T/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAGPHJYWHt//8QAHBABAAIDAQEBAAAAAAAAAAAAAQARIUFhUTGB/9oACAEBAAE/ECCUcilNnxKHDZpiWbAz1LY+B9JRC/WoKGTRW4Dr3gcG+IOSMGCPW3MFMjTTAYWTWi4XXsSqbDB0Awcn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/a1ebbea943f183782485fb7212e283bb/53e9f/charles-deluvio-540415-unsplash.webp 340w,
+/static/a1ebbea943f183782485fb7212e283bb/0991f/charles-deluvio-540415-unsplash.webp 680w,
+/static/a1ebbea943f183782485fb7212e283bb/9d77c/charles-deluvio-540415-unsplash.webp 1360w,
+/static/a1ebbea943f183782485fb7212e283bb/24475/charles-deluvio-540415-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/a1ebbea943f183782485fb7212e283bb/a0703/charles-deluvio-540415-unsplash.jpg 340w,
+/static/a1ebbea943f183782485fb7212e283bb/5041d/charles-deluvio-540415-unsplash.jpg 680w,
+/static/a1ebbea943f183782485fb7212e283bb/fe1b8/charles-deluvio-540415-unsplash.jpg 1360w,
+/static/a1ebbea943f183782485fb7212e283bb/071e2/charles-deluvio-540415-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/a1ebbea943f183782485fb7212e283bb/fe1b8/charles-deluvio-540415-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/a1ebbea943f183782485fb7212e283bb/fe1b8/charles-deluvio-540415-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+Young people today are making a serious mistake about their fashion style. Speaking of fashion, it sounds like a luxury, and you have to spend a lot of money to buy an item you like to wear, or simply a pair of shoes you would love to buy. Forget it all! I will show you ways you can both save a lot of money and wear clothes that are meaningful to you and sustainable,Style doesn’t come easily for everyone, and that’s totally OK. Not having a distinct sense of style is nothing to be ashamed of, but despite popular belief, style is not so much innate as something you can learn over time—if you so desire.
+Defining your look can be intimidating, but it’s much less scary when you have simple steps guiding you along the way. For those of you just starting out, look no further than our five easy steps, and you’ll be styling in no time.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c77583abe98a443b5f30befea3f88d09/071e2/charles-deluvio-540418-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.35%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBAX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/2gAMAwEAAhADEAAAAVpz9eVOQNJxNPpm4QP/xAAcEAACAgIDAAAAAAAAAAAAAAAAAQIDBCEQETP/2gAIAQEAAQUCFFviyySdV/Y5bbK4OUtD0Y/kf//EABYRAQEBAAAAAAAAAAAAAAAAAAECIP/aAAgBAwEBPwGQcf/EABkRAAIDAQAAAAAAAAAAAAAAAAECAAMQIv/aAAgBAgEBPwGxmA5g3//EABsQAAICAwEAAAAAAAAAAAAAAAEQACERI0Ex/9oACAEBAAY/AnU2UR2FYxXZ4EF//8QAHRABAAICAwEBAAAAAAAAAAAAAQARITFBkaFxsf/aAAgBAQABPyHUaMIPNS6UvU8nlOvATuot6viGysspS230jchpInt/Zc//2gAMAwEAAgADAAAAEBvAgf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAIRD/2gAIAQMBAT8QQ1mN5//EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAECAQE/ELNKM4qPmf/EABwQAQEBAQADAQEAAAAAAAAAAAERACExQVGhsf/aAAgBAQABPxCnlgdL0VGTJNJTw6K4IKlr7c/AAKmIv49wLU6357yZ6vB9uCzip8GzPe39Fc5ciiPTORW3+mF3u//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c77583abe98a443b5f30befea3f88d09/53e9f/charles-deluvio-540418-unsplash.webp 340w,
+/static/c77583abe98a443b5f30befea3f88d09/0991f/charles-deluvio-540418-unsplash.webp 680w,
+/static/c77583abe98a443b5f30befea3f88d09/9d77c/charles-deluvio-540418-unsplash.webp 1360w,
+/static/c77583abe98a443b5f30befea3f88d09/24475/charles-deluvio-540418-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c77583abe98a443b5f30befea3f88d09/a0703/charles-deluvio-540418-unsplash.jpg 340w,
+/static/c77583abe98a443b5f30befea3f88d09/5041d/charles-deluvio-540418-unsplash.jpg 680w,
+/static/c77583abe98a443b5f30befea3f88d09/fe1b8/charles-deluvio-540418-unsplash.jpg 1360w,
+/static/c77583abe98a443b5f30befea3f88d09/071e2/charles-deluvio-540418-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/c77583abe98a443b5f30befea3f88d09/fe1b8/charles-deluvio-540418-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/c77583abe98a443b5f30befea3f88d09/fe1b8/charles-deluvio-540418-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Build Up Your Wardrobe with Basics and Investment Pieces
+Creating your personal style is so much easier when you already have a strong wardrobe foundation. But what does that even mean? A strong wardrobe foundation will serve as the building blocks to your personal style. These items are typically called “basics,” e.g., jeans and T-shirts, and “investments,” e.g., skirts, slacks, blazers, and blouses. Basic and investment items should be tailored specifically for your body type—the easiest way to guarantee that every outfit will look amazing on you. When trying out new looks and developing your personal style, these base items will serve as the perfect starting point.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/071e2/charles-deluvio-540420-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 123.6%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/2gAMAwEAAhADEAAAAe0zaZk1BAaz2a+iajDl/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAxESBBAh/9oACAEBAAEFAncIEcOsvJ34sHguGUpXRcRovX//xAAaEQACAgMAAAAAAAAAAAAAAAAAAQIDEBJh/9oACAEDAQE/AZTaZvwsx//EABwRAAEDBQAAAAAAAAAAAAAAAAEAAgMQESExMv/aAAgBAgEBPwFkLS3KMAv0odU//8QAHRAAAQMFAQAAAAAAAAAAAAAAAQAQEQIgITFBYf/aAAgBAQAGPwKSpDZ0qhxivTb/AP/EABsQAAIDAQEBAAAAAAAAAAAAAAABESExgXHB/9oACAEBAAE/IbGcFR9M3CMhXB+ySokeQsdBHyFU0bEf/9oADAMBAAIAAwAAABAH873/xAAYEQEBAAMAAAAAAAAAAAAAAAABABARIf/aAAgBAwEBPxDQCEkHRx//xAAZEQEAAgMAAAAAAAAAAAAAAAABABARITH/2gAIAQIBAT8QBPTAIwj3K//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESExQVGBcbH/2gAIAQEAAT8QDmhaAWsaY4slI9MKAoR0kqbVZnLz7FMd0AdZub6Q0rmUSraDyU1Z7b10H4QgFr2vM1/Z+L+zX2f/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/53e9f/charles-deluvio-540420-unsplash.webp 340w,
+/static/6dfa10d882f38682b5fef697d9eae25a/0991f/charles-deluvio-540420-unsplash.webp 680w,
+/static/6dfa10d882f38682b5fef697d9eae25a/9d77c/charles-deluvio-540420-unsplash.webp 1360w,
+/static/6dfa10d882f38682b5fef697d9eae25a/24475/charles-deluvio-540420-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/a0703/charles-deluvio-540420-unsplash.jpg 340w,
+/static/6dfa10d882f38682b5fef697d9eae25a/5041d/charles-deluvio-540420-unsplash.jpg 680w,
+/static/6dfa10d882f38682b5fef697d9eae25a/fe1b8/charles-deluvio-540420-unsplash.jpg 1360w,
+/static/6dfa10d882f38682b5fef697d9eae25a/071e2/charles-deluvio-540420-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/fe1b8/charles-deluvio-540420-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/fe1b8/charles-deluvio-540420-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/li&gt;
+&lt;li&gt;Watch&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The first step to developing your sense of style is to become an expert stalker, er, observer. Turning on your “style brain” might be a bit difficult if you haven’t used it before, but try paying special attention to what the women around you are wearing. What about their outfits do you like or dislike? A good way to tell whether you really like an outfit is when you can imagine yourself wearing it in your everyday life. Can you see yourself going out to drinks in that skinny jeans and blazer combo? If the answer is yes, then jot down this look in your mental personal style book. If you can’t picture yourself wearing it in a common daily activity, then move on.
+Because style is so visual, create an inspiration board on Pinterest. Search through celebrities whose style you particularly admire, or simply scroll through your feed for outfits that stand out. Make mental notes about the specific pieces and looks that you are drawn toward. Are they more masculine or feminine? Are the colors bright or muted? Is there a vintage or modern vibe to the looks you like? Start jotting down the specific items that you want to wear together.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/071e2/charles-deluvio-547196-unsplash.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 7vw 0; max-width: 1360px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.35%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAwUCBP/aAAwDAQACEAMQAAABsJJZz9U4J3Fn7KqHO4SB/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIAAwQRMRAhI//aAAgBAQABBQLmuzLFuXEHYux501LsCMOMrqJr/8QAGxEAAgEFAAAAAAAAAAAAAAAAAAECAxAREzH/2gAIAQMBAT8Bc0ni1TpsZ//EABwRAAIABwAAAAAAAAAAAAAAAAACAQMEEBEUMv/aAAgBAgEBPwFZLMuYWp+DXQ//xAAbEAACAQUAAAAAAAAAAAAAAAABEAAREiJRYf/aAAgBAQAGPwJi2ZAIHRnFQv8A/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITEQQZFR/9oACAEBAAE/IeT7wv1lFeLp6YgEbGYDuAZTHK/ZWGq6hOFjK0MBryZz/9oADAMBAAIAAwAAABDj7n3/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAEDAQE/EOgYKDf/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREhYf/aAAgBAgEBPxABQex0bndP/8QAIBABAAICAgEFAAAAAAAAAAAAAQARITFBURBhcaHB0f/aAAgBAQABPxDznJKJVp6dEsWtj4IIYFickRYQWunH5M6Bt6pwdsHQKgoYPaH2UWPOZQUgcAwbRKK239E//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/53e9f/charles-deluvio-547196-unsplash.webp 340w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/0991f/charles-deluvio-547196-unsplash.webp 680w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/9d77c/charles-deluvio-547196-unsplash.webp 1360w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/24475/charles-deluvio-547196-unsplash.webp 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/a0703/charles-deluvio-547196-unsplash.jpg 340w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/5041d/charles-deluvio-547196-unsplash.jpg 680w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/fe1b8/charles-deluvio-547196-unsplash.jpg 1360w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/071e2/charles-deluvio-547196-unsplash.jpg 2000w&quot;
+          sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+          src=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/fe1b8/charles-deluvio-547196-unsplash.jpg&quot;
+          alt=&quot;Cute dog&quot;
+          title=&quot;&quot;
+          src=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/fe1b8/charles-deluvio-547196-unsplash.jpg&quot;
+        /&gt;
+      &lt;/picture&gt;
+      &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Copy&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;“Copying” gets a bad rap. But at the end of the day, everyone (even the greatest fashion icons) were inspired by someone. So don’t feel guilty for recreating someone else’s outfit.&lt;/p&gt;
+&lt;p&gt;Now that you’ve got your Pinterest board full of outfits you’d like to try, take some extra time in the morning (or the night before) to examine your style board in front of your own wardrobe. As you look at all the outfits on your inspiration board, which items are similar to ones you already own? Start going through your closet and picking out the clothes that match (or are close enough to) your desired outfit. Be flexible as you put together your look—you might not have the exact striped button-up, but a blue one does the same job.&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Ignore Trends&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Most importantly, forget about being “fashionable.” The goal is to create personal style, not to become a slave to trends. Women often associate “fashion” with “style,” but really they are two completely different things. This confusion often results in women thinking that style is superficial and materialistic because of the pressure to be trendy. But really, personal style is all about creating an everyday look and identity that is curated to your personal taste and lifestyle. A personal sense of style is not influenced by the fluctuating tides of fashion.
+So forget about what Kendall and Gigi are wearing (please), and focus on items that flatter your body and work with your lifestyle. Each item you incorporate into your wardrobe should represent who you are and should be versatile enough for numerous occasions throughout your week. You should be able to mix and match your items in various ways, and you should never feel pressured to wear something you don’t really like.&lt;/p&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;Try New Things&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For those of us embarking on newfound territory, changing our look can be scary. We often feel nervous to wear outfits that are out of the norm. We wonder, “What if people think I look weird?” or “What if this outfit is too out there?” These insecurities are totally normal when stepping outside of your comfort zone. But know that there is a fine line between really disliking something and just being afraid of something new. Give it a try for one wear—if you still really hate it, rethink it. Style should make you feel good about yourself, so if it’s just that you think it’s too much for you, give yourself the freedom to try it out. You might not be used to wearing boyfriend jeans with heels, but if you know you love it on others, at least give yourself a chance.
+If you don’t want to pull a 180, start easing into your bolder looks. For example, if the boyfriend jeans and heels combo is too intense, swap the heels for ballet flats. Or if your crimson skirt seems too bright, tone it down with a black top and jean jacket. Over time, by trying new things you’ll find what makes you shine—and that is the ultimate style statement.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Maybe, if you don’t like big American girls and want a healthier girl and you have a passion for Asian women, you should date a Vietnamese…]]></description><link>https://KaiLuu.com/New Beginnings/</link><guid isPermaLink="false">https://KaiLuu.com/New Beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Maybe, if you don’t like big American girls and want a healthier girl and you have a passion for Asian women, you should date a Vietnamese women. Many Vietnamese girls are so beautiful. And of course Vietnamese women always came to the top of the list you want to date.
+Vietnamese women have a particular characteristic, they are shy girl, not facile in love. If you are about dating a Vietnamese girl anywhere in the part of the world and you have your doubt, stop doubting and go for it. We will be sharing some man to man talks with you and also debunk some rumours you have heard or something someone had when dating a Vietnamese lady.&lt;/p&gt;
+&lt;p&gt;Vietnamese beautiful girls
+So what are Vietnamese women like? Why should you date a Vietnamese woman?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, Vietnamese girls are very lovely, gently and wonderful women &lt;/li&gt;
+&lt;li&gt;Mostly all Vietnamese girls are loyal, and they really devote their-self to their family and loved ones no matter father/brother or Husband Vietnamese Girls care more about their husbands than about themselves&lt;/li&gt;
+&lt;li&gt;Because Vietnamese culture is all about family, as once you are her boyfriend, you are part of her family (she will cook for you, take care of you whenever you’re sick )&lt;/li&gt;
+&lt;li&gt;The local Vietnamese men are known for drinking too much and for getting a bit too aggressive. Women don’t drink and they are very loyal, because you are much better than alternative…&lt;/li&gt;
+&lt;li&gt;Respect and loyalty are the most common traits in Vietnamese Women&lt;/li&gt;
+&lt;li&gt;Love in Vietnamese means being honest about your emotions&lt;/li&gt;
+&lt;li&gt;Most Vietnamese Ladies are not religious. They are very welcoming to new ideas, but they just need a man to lead them.&lt;/li&gt;
+If you have gone through the list carefully and understood everything, find out how beautiful the Vietnamese women are physically and ethically. Here are some tips to date a Vietnamese woman. And if you want a serious relationship with them or dating a vietnamese girl or women, you can’t miss downloading YmeetMe app to find your love.
+Of course, the truth is, relationships have never been simple. Whether he or she is foreign or Vietnamese, happiness only comes when both take time to genuinely get to know each other.  </content:encoded></item><item><title><![CDATA[20 years old.]]></title><description><![CDATA[Your Expectations Are The Only Ones You Need To Meet:
+Society at large sets a lot of benchmarks, especially for women, that they think you…]]></description><link>https://KaiLuu.com/Tuoi-20/</link><guid isPermaLink="false">https://KaiLuu.com/Tuoi-20/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Your Expectations Are The Only Ones You Need To Meet:
+Society at large sets a lot of benchmarks, especially for women, that they think you should meet, or conform to, but understand you don’t have to live your life according to an ideal you do not believe in, and you don’t have to apologize for it. Whether it’s choosing to take a risk in a creative field, or not to have children or get married, or to take a job you know you love but the people around you don’t understand, this is your life. Some choices and risks will be especially difficult, and will be harder to accomplish than you ever imagined, but if it is what you really, truly want, then the work will be worth it, and the people around you who doubted you will be among the first to be supportive when it works out.&lt;/p&gt;
+&lt;h3&gt;Grit Is What Counts:&lt;/h3&gt;
+&lt;p&gt;There is no trick or shortcut that is better than good work. There will always be someone with better connections than you have, which may get them a job, but it won’t get them a career. The most successful people are the ones that keep going when everyone else quits, carry on through the most demanding circumstances, and deliver results. They’re the ones that have failed 1,000 times and are still trying. Talent only gets you so far, it’s the work that ultimately creates the life you want.&lt;/p&gt;
+&lt;h3&gt;No Excuses:&lt;/h3&gt;
+&lt;p&gt;There are excuses for everything, you couldn’t meet this deadline because of x,y and z, or you couldn’t make it to the gym because you were tired, you couldn’t get a project finished in time because of everyone else, etc. Success is about doing the things you absolutely don’t want to do on a regular basis. By making excuses, you are enabling your worst instincts, and your instinct is rarely to grind through a tough situation- your instinct is to give up. The main difference between many successful people and regular people is that they absolutely refused to give up.&lt;/p&gt;
+&lt;h3&gt;Save Money Now&lt;/h3&gt;
+&lt;p&gt;It feels like you have all the time in the world, and that you should enjoy your life now before you have more responsibilities (and you only have more responsibilities, never less), but not putting aside 10% of every paycheck can make retirement an impossibility, or an emergency can put you in a great deal of debt. This is well worn advice, but it’s oft repeated because it’s rarely followed. Put 10% of that paycheck aside like clockwork, even when it hurts, because you never know what will happen, and you don’t want to be living paycheck to paycheck at 55 because you didn’t save now.&lt;/p&gt;
+&lt;h3&gt;Invest In Your Health&lt;/h3&gt;
+&lt;p&gt;I may sound like your parents, but start eating right and exercising now. In the United States the biggest cause of death is heart disease, and strokes and diabetes are among the top 10 causes of death. A myriad of medical problems stem from poor diet and exercise, which end up costing tens of thousands, and perhaps even hundreds of thousands of dollars, which can devastate a lifetime of savings. The healthy habits you start forming now will pay dividends 10, 20, 30, 40 years from now. Find exercise you enjoy doing, and healthy meals you enjoy eating. The sooner you make responsible decisions, the more you set yourself up for a longer, healthier, more stable life. It gives you more time with people you love.&lt;/p&gt;
+&lt;h3&gt;Be Fearless&lt;/h3&gt;
+&lt;p&gt;Few things are quite as paralyzing as being overwhelmed by your own guilt. But being too hard on yourself can be incredibly debilitating. Maybe you didn’t meet a goal on your preferred timeline, or you missed a friend’s milestone, or you’ve wasted a lot of time being afraid and you’re ashamed of that. Whatever it is, you can’t let fear and guilt paralyze you. Gather your courage, and let your desire to achieve your goal overcome any fear you have of failing.&lt;/p&gt;
+&lt;h3&gt;Invest In Your Improvement&lt;/h3&gt;
+&lt;p&gt;Spending money on courses that can help you professionally, or therapy that helps your personally, or a consultant for your health, or a career coach, etc., whatever aspect of your life you feel you need to improve, invest in it. Helping yourself achieve your goals is money well spent. Most people tend to plateau professionally, but those that continue to climb invest in their own self-improvement, whether it be personal or professional continue to excel. These support systems that will help you achieve balance and expertise is an investment in your happiness, and therefore your productivity and stability.
+Evaluate Your Relationships  &lt;/p&gt;
+&lt;h3&gt;Buy Time&lt;/h3&gt;
+&lt;p&gt;The one thing you can occasionally buy can never get back is time. Creating time and space for your work, to take care of yourself and to spend time with you friends and family is money well spent if you can spare it. Get your groceries delivered, laundry done, dog walked, hair blow dried, house cleaned, food delivered when you need it to. Putting that extra stress on yourself because of regular chores that you can outsource when you’re insanely busy is like removing a couple of balls when you’re trying to juggle too many. It is an indulgence, and some things an extravagance, but you will be thankful you spent the money when you sorely needed the time and flexibility.&lt;/p&gt;
+&lt;h3&gt;Evaluate Your Relationships&lt;/h3&gt;
+&lt;p&gt; Don’t spend time with people who don’t treat you well. Show up for your friends and family who do. There will be certain milestones in your life, especially in your 30s and 40s and you are going to need a support system, and people are going to need you to be part of their support system. Parents will die, friends will get married, other friends will get divorced, children will be born and or fall seriously ill, a lot of earth shattering life changes will happen within the next decade or two. Be someone who they can count on, show up and make time for them.&lt;/p&gt;
+&lt;h3&gt;Be Different&lt;/h3&gt;
+&lt;p&gt;A high value is placed on fitting in, when people who change the world and accomplish incredible things are usually are very different from most people. Your interests, good qualities, and personality are what make you, you. Be proud of who you are, and don’t care if people like it.&lt;/p&gt;</content:encoded></item></channel></rss>
